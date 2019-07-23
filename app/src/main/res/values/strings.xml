@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Data Book</string>
+    <string name="hello_blank_fragment">blankfrag</string>
+    <string name="drawer_open">drawopen</string>
+    <string name="drawer_close">drawclose</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Bio</item>
+        <item>Vaccination</item>
+        <item>Anniversary</item>
+        <item>About Us</item>
+    </string-array>
+</resources>
